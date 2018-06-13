@@ -62,6 +62,18 @@
   padding: 100px 0;
 }
 
+.about {
+  max-width: 100%;
+  transform: rotate(90deg);
+  margin-bottom: 60px;
+}
+
+.skillSection {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+
 
 
 
