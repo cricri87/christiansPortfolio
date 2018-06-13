@@ -76,7 +76,8 @@ body {
   margin-bottom: 60px;
 }
 
-.skillSection {
+.skillSection, 
+.contactSection {
   background-color: #e74c3c;
   color: #fff;
 }
@@ -165,6 +166,62 @@ body {
   margin-left: -20%;
   color: #444;
 }
+
+.contactButton {
+  color: #fff;
+  padding: 15px 20px;
+  display: inline-block;
+  margin-top: 20px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+
+.contactButton:hover {
+  text-decoration: none;
+  color: #e74c3c;
+  background-color: #fff;
+}
+
+.filter a {
+  color: #bdc3c7;
+  border: 1px solid #bdc3c7;
+  padding: 10px 18px;
+  display: block;
+  text-decoration: none;
+}
+
+.filter li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.filter .current {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  color: #fff;
+}
+
+.filter {
+  text-align: center;
+  width: 100%;
+}
+
+.section .heading {
+  text-align: center;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
